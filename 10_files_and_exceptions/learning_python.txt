@@ -1,0 +1,7 @@
+In Python you can create dictionaries.
+In Python you can use loops to iterate through lists.
+In Python you can use mathematical calculations.
+In Python you can create classes that store methods.
+In Python you can read and save files.
+In Python you can write functions.
+In Python you can create lists.
