@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1646680934000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+        "title": "USGS All Earthquakes, Past Hour",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 5
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.4,
+                "place": "6km N of Frazier Park, CA",
+                "time": 1646680501310,
+                "updated": 1646680740583,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40201512",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40201512.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 30,
+                "net": "ci",
+                "code": "40201512",
+                "ids": ",ci40201512,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 19,
+                "dmin": 0.05182,
+                "rms": 0.27,
+                "gap": 68,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.4 - 6km N of Frazier Park, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.953,
+                    34.8715,
+                    2.64
+                ]
+            },
+            "id": "ci40201512"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.19,
+                "place": "1km SW of Calimesa, CA",
+                "time": 1646678870640,
+                "updated": 1646679079956,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci40201472",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci40201472.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 22,
+                "net": "ci",
+                "code": "40201472",
+                "ids": ",ci40201472,",
+                "sources": ",ci,",
+                "types": ",nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 19,
+                "dmin": 0.1529,
+                "rms": 0.18,
+                "gap": 160,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.2 - 1km SW of Calimesa, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.062,
+                    33.9818333,
+                    13.15
+                ]
+            },
+            "id": "ci40201472"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.9,
+                "place": "94 km N of Yakutat, Alaska",
+                "time": 1646678863713,
+                "updated": 1646679570563,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02231ggvf7",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak02231ggvf7.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 56,
+                "net": "ak",
+                "code": "02231ggvf7",
+                "ids": ",ak02231ggvf7,",
+                "sources": ",ak,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.63,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.9 - 94 km N of Yakutat, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -140.0032,
+                    60.3803,
+                    0.1
+                ]
+            },
+            "id": "ak02231ggvf7"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.9,
+                "place": "7 km NNW of Cepitá, Colombia",
+                "time": 1646678069003,
+                "updated": 1646680873609,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2un",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000h2un.geojson",
+                "felt": 2,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 370,
+                "net": "us",
+                "code": "6000h2un",
+                "ids": ",us6000h2un,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.916,
+                "rms": 0.95,
+                "gap": 62,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.9 - 7 km NNW of Cepitá, Colombia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.0095,
+                    6.8116,
+                    153.88
+                ]
+            },
+            "id": "us6000h2un"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.81,
+                "place": "6km WNW of Bodie, CA",
+                "time": 1646677460150,
+                "updated": 1646680450046,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73702521",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73702521.geojson",
+                "felt": 1,
+                "cdi": 2,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 122,
+                "net": "nc",
+                "code": "73702521",
+                "ids": ",nc73702521,nn00835020,",
+                "sources": ",nc,nn,",
+                "types": ",dyfi,focal-mechanism,nearby-cities,origin,phase-data,scitech-link,",
+                "nst": 51,
+                "dmin": 0.0663,
+                "rms": 0.11,
+                "gap": 49,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 2.8 - 6km WNW of Bodie, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.074,
+                    38.2331667,
+                    9.89
+                ]
+            },
+            "id": "nc73702521"
+        }
+    ],
+    "bbox": [
+        -140.0032,
+        6.8116,
+        0.1,
+        -73.0095,
+        60.3803,
+        153.88
+    ]
+}
