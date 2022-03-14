@@ -4,7 +4,9 @@ import matplotlib.pyplot as plt
 import os
 
 
-os.chdir('c:/Users/Felipe/python_work/notebooks/bk_Python_crash_course/project_2-data_visualization/16_downloading_data')
+os.chdir("""
+    c:/Users/Felipe/python_work/notebooks/bk_Python_crash_course/project_2-
+    data_visualization/16_downloading_data""")
 
 filename = 'data/death_valley_2018_simple.csv'
 filename = 'data/sitka_weather_2018_simple.csv'
