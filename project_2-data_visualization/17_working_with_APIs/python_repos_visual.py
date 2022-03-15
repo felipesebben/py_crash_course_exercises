@@ -18,7 +18,7 @@ for repo_dict in repo_dicts:
     repo_url = repo_dict['html_url']
     repo_link = f"<a href='{repo_url}'>{repo_name}</a>"
     repo_links.append(repo_link)
-    
+
     stars.append(repo_dict['stargazers_count'])
 
     owner = repo_dict['owner']['login']
