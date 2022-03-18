@@ -1,6 +1,6 @@
 import requests
 
-from plotly.graph_objects import Bar
+# from plotly.graph_objects import Bar
 from plotly import offline
 
 
